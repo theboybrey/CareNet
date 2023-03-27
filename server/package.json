@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "API Server for CareNet Online Platfrom",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "nodemon server.js"
   },
